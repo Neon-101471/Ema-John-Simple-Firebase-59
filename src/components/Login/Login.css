@@ -1,0 +1,11 @@
+.login-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-align-center{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
